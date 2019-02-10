@@ -1,0 +1,9 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(11Feb2019:02:31:04):( irun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test )
+s2::(11Feb2019:02:33:16):( irun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test )
+s3::(11Feb2019:02:35:38):( irun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test )
+s4::(11Feb2019:02:36:03):( irun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test )
+s5::(11Feb2019:02:36:21):( irun -access +rwc -f compile_list.f -uvmhome CDNS-1.1d +UVM_TESTNAME=reset_test )
